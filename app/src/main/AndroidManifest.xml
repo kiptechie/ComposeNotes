@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kiptechie.composenotes">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".NoteApp"
         android:allowBackup="true"
