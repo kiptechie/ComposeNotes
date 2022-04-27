@@ -4,7 +4,7 @@
 ## Features 
 * Create and save note with title and content
 * Choose color for note (Animated)
-* Delete note
+* Delete note and undo the recent delete
 * Filter notes by title, date, color, ascending or descending order (Animated)
 
 ## Video of working app
