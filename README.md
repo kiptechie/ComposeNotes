@@ -1,5 +1,11 @@
 # ComposeNotes
  Jetpack compose, clean architecture note taking app
+
+## Video of working app
+<video width="360" height="720" controls>
+  <source src="./videos/compose_notes.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
  
  ## Installation
 Clone this repository and import into **Android Studio**
