@@ -1,5 +1,5 @@
 # ComposeNotes
- Jetpack compose, clean architecture note taking app
+ Jetpack compose, clean architecture note taking app. I used canvas to decorate the note item :)
 
 ## Video of working app
  
